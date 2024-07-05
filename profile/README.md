@@ -1,6 +1,6 @@
   # Social Link:
   
-🔭 X: [https://twitter.com/LuckyResearchVN](https://x.com/nodezillla)
+🔭 X: https://x.com/nodezillla
 
 👯 Telegram: http://t.me/nodezilla
 
