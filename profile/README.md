@@ -1,12 +1,14 @@
-## Hi there 👋
+  # Social Link:
+  
+🔭 X: [https://twitter.com/LuckyResearchVN](https://x.com/nodezillla)
 
-<!--
+👯 Telegram: http://t.me/nodezilla
 
-**Here are some ideas to get you started:**
+📫 Discord: [link](https://discord.com/users/843564533011447858)
+------------------------
+Contact official and just only. If anyone impersonates from an address other than this one, please block and disregard it.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Email founder: ecorufelix2021@gmail.com 
+
+- Discord: nodezi11a
+
